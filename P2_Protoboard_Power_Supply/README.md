@@ -9,7 +9,7 @@ Diseño de una fuente de poder para protoboard.
 ![alt text](../Imagenes/P2/esquematico.PNG)
 
 ## Layout
-
+![alt text](../Imagenes/P2/layout.PNG)
 
 ## PCB
 ![alt text](../Imagenes/P2/pcb.PNG)
