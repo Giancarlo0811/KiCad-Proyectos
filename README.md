@@ -8,3 +8,6 @@ Repositorio con diseños de PCB usando KiCad 8.0
 
 - ### [P2 Fuente de Poder para Protoboard](./P2_Protoboard_Power_Supply/)
 ![alt text](./Imagenes/P2/pcb.PNG)
+
+- ### [P3 Reloj Matriz LED 4x8x8 ](./P3_4x8x8_LED_Matrix_Clock/)
+![alt text](./Imagenes/P3/3D-1.PNG)
