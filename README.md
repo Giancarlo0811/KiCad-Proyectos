@@ -11,3 +11,6 @@ Repositorio con diseños de PCB usando KiCad 8.0
 
 - ### [P3 Reloj Matriz LED 4x8x8 ](./P3_4x8x8_LED_Matrix_Clock/)
 ![alt text](./Imagenes/P3/3D-1.PNG)
+
+- ### [P4 Regulador de Voltaje Lineal de 5V](./P4_Regulador_Voltaje_5V/)
+![alt text](./Imagenes/P4/PCB.PNG)
