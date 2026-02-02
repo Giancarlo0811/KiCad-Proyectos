@@ -14,3 +14,5 @@ Repositorio con diseños de PCB usando KiCad 8.0
 
 - ### [P4 Regulador de Voltaje Lineal de 5V](./P4_Regulador_Voltaje_5V/)
 ![alt text](./Imagenes/P4/PCB.PNG)
+
+- ### [P5 Datalogger con Microcontrolador](./P5_MCU_Datalogger/)
