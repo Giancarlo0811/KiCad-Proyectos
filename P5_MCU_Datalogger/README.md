@@ -3,7 +3,10 @@ Diseño de PCB para un datalogger con microcontrolador. El datalogger se basa en
 Componentes adicionales en la placa, como LEDs de estado con sus resistencias, dos osciladores de cristal, conectores y capacitores.
 
 ## Esquemático
+![alt text](../Imagenes/P5/Esquematico.PNG)
 
 ## Layout
+![alt text](../Imagenes/P5/Layout.PNG)
 
 ## PCB
+![alt text](../Imagenes/P5/PCB.PNG)

@@ -16,3 +16,4 @@ Repositorio con diseños de PCB usando KiCad 8.0
 ![alt text](./Imagenes/P4/PCB.PNG)
 
 - ### [P5 Datalogger con Microcontrolador](./P5_MCU_Datalogger/)
+![alt text](./Imagenes/P5/PCB.PNG)
